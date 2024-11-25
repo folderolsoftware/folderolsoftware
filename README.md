@@ -1,1 +1,1 @@
-Folderol Software is a one-person indie studio specializing in userscripts and brower extensions. 
+Folderol Software is a one-person indie studio specializing in userscripts and browser extensions. 
